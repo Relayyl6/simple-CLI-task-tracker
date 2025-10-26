@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "description": "Buy stuff",
+    "status": "completed",
+    "createdAt": "2025-10-26T16:19:01.582Z",
+    "updatedAt": "2025-10-26T16:36:18.023Z"
+  },
+  {
+    "id": 2,
+    "description": "Order a new drink",
+    "status": "almost-done",
+    "createdAt": "2025-10-26T16:28:56.720Z",
+    "updatedAt": "2025-10-26T16:36:30.285Z"
+  },
+  {
+    "id": 3,
+    "description": "Get new books  for school",
+    "status": "in-progress",
+    "createdAt": "2025-10-26T16:32:11.562Z",
+    "updatedAt": "2025-10-26T16:35:48.545Z"
+  },
+  {
+    "id": 4,
+    "description": "Watch stranger things",
+    "status": "todo",
+    "createdAt": "2025-10-26T16:32:26.642Z",
+    "updatedAt": "2025-10-26T16:32:26.660Z"
+  },
+  {
+    "id": 5,
+    "description": "",
+    "status": "todo",
+    "createdAt": "2025-10-26T16:43:44.896Z",
+    "updatedAt": "2025-10-26T16:43:44.918Z"
+  }
+]
